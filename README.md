@@ -1,5 +1,5 @@
 # Advanced-thermal-protection
-Designed to monitor the condition and protect fuel-generating devices, mechanisms (motors, transformers, engines, furnaces, boilers, chemical or even nuclear reactors, and much more).
+Designed to monitor the condition and protect heat generating devices, mechanisms (motors, transformers, engines, furnaces, boilers, chemical or even nuclear reactors, and much more).
 Most devices are equipped with built-in temperature sensors (contact bimetallic breakers, for example), which are triggered at a certain temperature value. Due to their proximity to the source of heat generation
 (for example, location in the middle of the electric motor winding), they cope well with the task of thermal protection, but this largely concerns only fire safety; the heat-generating device itself or nearby
 equipment is most often hopelessly damaged. Naturally, the idea arises to create a “advanced” temperature sensor that triggers or at least notifies in advance, i.e. before irreparable destruction of the equipment occurs.
